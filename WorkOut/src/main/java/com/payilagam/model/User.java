@@ -8,7 +8,6 @@ import javax.persistence.Id;
 
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
 @Entity
 public class User {
 	@Id
